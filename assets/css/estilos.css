@@ -38,3 +38,12 @@ body {
 
 }
 
+
+.navbar > p{
+    color: #fff;
+}
+
+.navbar-nav{
+    margin-left: auto;
+
+}
